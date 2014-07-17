@@ -1,0 +1,1 @@
+sudo /home/pi/rcswitch-pi/./send 10101 1 1; /home/pi/rcswitch-pi/./send 10101 2 1; /home/pi/rcswitch-pi/./send 10101 3 1; /home/pi/rcswitch-pi/./send 10101 4 1
