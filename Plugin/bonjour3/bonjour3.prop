@@ -3,10 +3,10 @@
 		"bonjour3"		: {
 			"description"	: "Le Bonjour du matin",
 			"version"	: "1.0",
-			"api_url_ssh_ip"	: "192.168.1.9",
+			"api_url_ssh_ip"	: "192.168.x.x",
 			"api_url_ssh_port"	: "PORT",
-			"api_url_ssh_user"	: "root",
-			"api_url_ssh_pass"	: "mary",
+			"api_url_ssh_user"	: "",
+			"api_url_ssh_pass"	: "",
 			"name": "fred"
     		}
   	}
